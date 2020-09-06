@@ -10,8 +10,7 @@ My name is Jorge and I live in Monterrey, Mexico. Since I was a kid I liked comp
 
 I always loved chess and computers, Endgame is a convergence of both my passions. An iOS application, that lets users see all the world championship games. I developed this application on my free time and it’s the project that I’m the most proud of. Endgame: chess database can be found in the App Store.
 
-<img src="Images/EndgamePreview.png" width="650" height="250"/>  <img src="Images/Endgame.gif" width="120" height="250"/> 
+<img src="Images/EndgamePreview.png"> 
 
-
-[ <img src="Images/DownloadBadge.svg" width="100" height="50"/>
+[<img src="Images/DownloadBadge.svg" width="120" height="50"/>
 ](https://apps.apple.com/us/app/endgame-chess-database/id1517249044)       
